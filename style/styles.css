@@ -1,0 +1,108 @@
+h1{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 40px;
+    color: greenyellow;
+}
+
+h3{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 40px;
+    color: greenyellow;
+    font-style:initial
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    width: auto;
+    color: greenyellow;
+}
+
+body{
+    background-image: url(../images/stad\ snachts.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+.button1 {background-color: #ba0000;}   
+.button1 {font-size: 24px;}
+.button1 {padding: 14px 40px}
+.button1 {border-radius: 12px;}
+.button1 {width: 50%;}
+.button1 {margin: 0%;}
+.button1 {float: left;}
+.button1:hover {background-color: rgb(121, 7, 7);}
+
+.button2 {background-color: #ba0000;}
+.button2 {font-size: 24px;}
+.button2 {padding: 14px 40px;}
+.button2 {border-radius: 12px;}
+.button2 {width: 50%;}
+.button2 {margin: 0%;}
+.button2 {float: left;}
+.button2:hover {background-color: rgb(121, 7, 7);}
+
+.button3 {background-color: #ba0000;}   
+.button3 {font-size: 24px;}
+.button3 {padding: 14px 40px}
+.button3 {border-radius: 12px;}
+.button3 {width: 50%;}
+.button3 {margin: 0%;}
+.button3 {float: left;}
+.button3:hover {background-color: rgb(121, 7, 7);}
+.button3 {opacity: 0.6;cursor: not-allowed;}
+
+.button4 {background-color: #ba0000;}   
+.button4 {font-size: 24px;}
+.button4 {padding: 14px 40px}
+.button4 {border-radius: 12px;}
+.button4 {width: 50%;}
+.button4 {margin: 0%;}
+.button4 {float: left;}
+.button4:hover {background-color: rgb(121, 7, 7);}
+.button4 {opacity: 0.6;cursor: not-allowed;}
+
+h2{
+    text-align: center;
+    color: greenyellow;
+    margin-top: 150px;
+}
+
+.afbeelding{
+    width: 250px;
+    height: 150px;
+}
+
+.ruweschets{
+    width: 250px;
+    height: 150px;
+}
+
+.modulewerken{
+    border:medium red double;
+    border-radius: 100px;
+    font-style: italic;
+    display: flex;
+    width: 50%;
+    height: 100%;
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    margin-left: 25%;
+}
+.ruweschets {
+    border: medium red double;
+    border-radius: 100px;
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+    margin-left: 23%;
+}
