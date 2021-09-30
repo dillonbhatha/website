@@ -21,9 +21,9 @@ p{
 }
 
 body{
-    background-image: url(../images/stad\ snachts.jpg);
-    background-size: cover;
-    background-repeat: repeat;
+    background-image: url(../images/japan\ gif.gif);
+    background-size: 100%;
+    background-repeat: repeat-y;
 }
 
 .button1 {background-color: #ba0000;}   
